@@ -6,7 +6,7 @@ Back-end Python (Flask), front-end HTML/CSS/JS sans build, architecture N-tiers 
 ## Démarrage rapide
 ```bash
 pip install -r requirements.txt
-python run.py serve --demo      # données fictives -> http://127.0.0.1:5000
+python run.py     # données fictives -> http://127.0.0.1:5000
 ```
 
 Autres commandes : `python run.py check` (rapport chronologique), `python run.py sync --refresh` (tout retélécharger).
