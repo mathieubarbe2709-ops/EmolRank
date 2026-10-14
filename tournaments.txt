@@ -1,0 +1,10 @@
+# Un lien start.gg par ligne (lien de l'event Ultimate de préférence). Les lignes commençant par # sont ignorées.
+# L'ordre n'a pas d'importance : les tournois sont classés par date de début.
+# Exemple :
+# https://www.start.gg/tournament/mon-tournoi-12/event/ultimate-singles
+https://www.start.gg/tournament/taverne-du-duc/event/bracket-smash-ultimate
+https://www.start.gg/tournament/taverne-du-duc-2/event/bracket-smash-ultimate
+https://www.start.gg/tournament/taverne-du-duc-3/event/bracket-smash-ultimate
+https://www.start.gg/tournament/taverne-du-duc-4/event/bracket-smash-ultimate
+https://www.start.gg/tournament/taverne-du-duc-5/event/bracket-smash-ultimate
+https://www.start.gg/tournament/taverne-du-duc-6/event/bracket-smash-ultimate

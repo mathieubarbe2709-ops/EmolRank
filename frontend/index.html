@@ -1,0 +1,73 @@
+<!doctype html>
+<html lang="fr">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <title>Smash Ranking — Classement ELO</title>
+  <meta name="description" content="Classement ELO des joueurs de Super Smash Bros. Ultimate, tournoi après tournoi.">
+  <link rel="icon" href="assets/favicon.png">
+  <link rel="stylesheet" href="css/style.css">
+</head>
+<body>
+  <header class="topbar">
+    <div class="wrap topbar__in">
+      <a class="logo" href="#" aria-label="DUC E-Sport — classement ELO"><img src="assets/logo.png" alt="DUC E-Sport" height="38"></a>
+      <nav class="topnav"><a class="is-active" href="#">Classement ELO</a></nav>
+      <a id="backBtn" class="btn" href="#" hidden>← Retour au classement</a>
+      <button id="syncBtn" class="btn" type="button" title="Relire tournaments.txt et récupérer les nouveaux tournois sur start.gg">Actualiser</button>
+    </div>
+  </header>
+
+  <main class="wrap" id="rankingView">
+    <section class="navigator" aria-label="Choix du tournoi">
+      <div class="navigator__head">
+        <button id="prevBtn" class="arrow" type="button" aria-label="Tournoi précédent">‹</button>
+        <div class="navigator__title">
+          <p class="eyebrow" id="tourEyebrow">Classement après</p>
+          <h1 id="tourName">Chargement…</h1>
+          <p class="muted" id="tourMeta"></p>
+        </div>
+        <button id="nextBtn" class="arrow" type="button" aria-label="Tournoi suivant">›</button>
+      </div>
+      <ol class="timeline" id="timeline" aria-label="Chronologie des tournois"></ol>
+    </section>
+
+    <div class="grid">
+      <section class="panel ranking" aria-labelledby="rankTitle">
+        <div class="panel__head">
+          <h2 id="rankTitle">Classement des joueurs</h2>
+          <div class="tools">
+            <label class="check"><input type="checkbox" id="onlyHere"> Participants du tournoi</label>
+            <input id="search" type="search" placeholder="Rechercher un joueur…" aria-label="Rechercher un joueur" autocomplete="off">
+          </div>
+        </div>
+        <div class="thead" role="row">
+          <span class="c-rank">#</span><span class="c-player">Joueur</span><span class="c-char">Personnage le plus joué</span>
+          <span class="c-elo">ELO</span><span class="c-delta">Tournoi</span><span class="c-wl">V-D</span><span class="c-t">Tournois</span>
+        </div>
+        <ol class="rows" id="rows"></ol>
+        <p class="empty" id="empty" hidden></p>
+      </section>
+
+      <aside class="side">
+        <section class="panel">
+          <div class="panel__head"><h2>Vérification chronologique</h2></div>
+          <div class="panel__body" id="chrono"></div>
+        </section>
+        <section class="panel">
+          <div class="panel__head"><h2>Plus fortes progressions</h2></div>
+          <ol class="movers" id="movers"></ol>
+        </section>
+        <section class="panel">
+          <div class="panel__head"><h2>Règles du classement</h2></div>
+          <div class="panel__body rules" id="rules"></div>
+        </section>
+      </aside>
+    </div>
+  </main>
+  <main class="wrap" id="wikiView" hidden></main>
+
+  <div id="toast" class="toast" role="status" hidden></div>
+  <script type="module" src="js/main.js"></script>
+</body>
+</html>

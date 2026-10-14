@@ -1,0 +1,801 @@
+{
+ "key": "tournament/demo-weekly-1/event/ultimate-singles",
+ "url": "https://www.start.gg/tournament/demo-weekly-1/event/ultimate-singles",
+ "slug": "tournament/demo-weekly-1/event/ultimate-singles",
+ "name": "Demo Weekly 1",
+ "event_name": "Ultimate Singles",
+ "start_at": 1785585600,
+ "completed": true,
+ "sets": [
+  {
+   "id": "1001",
+   "round": 1,
+   "round_text": "Winners Round 1",
+   "completed_at": 1785586800,
+   "started_at": 1785585900,
+   "winner_index": 0,
+   "dq": false,
+   "phase_group": "10",
+   "players": [
+    {
+     "player_id": "1009",
+     "tag": "Titan",
+     "score": 2,
+     "characters": [
+      "Hero",
+      "Hero"
+     ]
+    },
+    {
+     "player_id": "1003",
+     "tag": "Rhino",
+     "score": 0,
+     "characters": [
+      "Pikachu",
+      "Pikachu"
+     ]
+    }
+   ]
+  },
+  {
+   "id": "1002",
+   "round": 1,
+   "round_text": "Winners Round 1",
+   "completed_at": 1785587700,
+   "started_at": 1785586800,
+   "winner_index": 0,
+   "dq": false,
+   "phase_group": "10",
+   "players": [
+    {
+     "player_id": "1007",
+     "tag": "Orion",
+     "score": 2,
+     "characters": [
+      "Joker",
+      "Joker"
+     ]
+    },
+    {
+     "player_id": "1001",
+     "tag": "Kaito",
+     "score": 0,
+     "characters": [
+      "Fox",
+      "Fox"
+     ]
+    }
+   ]
+  },
+  {
+   "id": "1003",
+   "round": 1,
+   "round_text": "Winners Round 1",
+   "completed_at": 1785588480,
+   "started_at": 1785587580,
+   "winner_index": 0,
+   "dq": false,
+   "phase_group": "10",
+   "players": [
+    {
+     "player_id": "1018",
+     "tag": "Onyx",
+     "score": 2,
+     "characters": [
+      "R.O.B.",
+      "R.O.B."
+     ]
+    },
+    {
+     "player_id": "1012",
+     "tag": "Lynx",
+     "score": 0,
+     "characters": [
+      "Pokémon Trainer",
+      "Min Min"
+     ]
+    }
+   ]
+  },
+  {
+   "id": "1004",
+   "round": 1,
+   "round_text": "Winners Round 1",
+   "completed_at": 1785589380,
+   "started_at": 1785588480,
+   "winner_index": 0,
+   "dq": false,
+   "phase_group": "10",
+   "players": [
+    {
+     "player_id": "1019",
+     "tag": "Jinx",
+     "score": 2,
+     "characters": [
+      "Incineroar",
+      "Incineroar",
+      "Incineroar"
+     ]
+    },
+    {
+     "player_id": "1011",
+     "tag": "Vortex",
+     "score": 1,
+     "characters": [
+      "Mii Swordfighter",
+      "Mii Swordfighter",
+      "Rosalina & Luma"
+     ]
+    }
+   ]
+  },
+  {
+   "id": "1005",
+   "round": 1,
+   "round_text": "Winners Round 1",
+   "completed_at": 1785590640,
+   "started_at": 1785589740,
+   "winner_index": 1,
+   "dq": false,
+   "phase_group": "10",
+   "players": [
+    {
+     "player_id": "1004",
+     "tag": "Mistral",
+     "score": 0,
+     "characters": [
+      "Link",
+      "Link"
+     ]
+    },
+    {
+     "player_id": "1008",
+     "tag": "Sakura",
+     "score": 2,
+     "characters": [
+      "Sephiroth",
+      "Pokémon Trainer"
+     ]
+    }
+   ]
+  },
+  {
+   "id": "1006",
+   "round": 1,
+   "round_text": "Winners Round 1",
+   "completed_at": 1785591240,
+   "started_at": 1785590340,
+   "winner_index": 1,
+   "dq": false,
+   "phase_group": "10",
+   "players": [
+    {
+     "player_id": "1002",
+     "tag": "Nova",
+     "score": 0,
+     "characters": [
+      "Palutena",
+      "Marth"
+     ]
+    },
+    {
+     "player_id": "1013",
+     "tag": "Ember",
+     "score": 2,
+     "characters": [
+      "Min Min",
+      "Min Min"
+     ]
+    }
+   ]
+  },
+  {
+   "id": "1007",
+   "round": -1,
+   "round_text": "Losers Round 1",
+   "completed_at": 1785591960,
+   "started_at": 1785591060,
+   "winner_index": 1,
+   "dq": false,
+   "phase_group": "10",
+   "players": [
+    {
+     "player_id": "1003",
+     "tag": "Rhino",
+     "score": 1,
+     "characters": [
+      "Pikachu",
+      "Pikachu",
+      "Pikachu"
+     ]
+    },
+    {
+     "player_id": "1001",
+     "tag": "Kaito",
+     "score": 2,
+     "characters": [
+      "Fox",
+      "Fox",
+      "Fox"
+     ]
+    }
+   ]
+  },
+  {
+   "id": "1008",
+   "round": -1,
+   "round_text": "Losers Round 1",
+   "completed_at": 1785592800,
+   "started_at": 1785591900,
+   "winner_index": 0,
+   "dq": false,
+   "phase_group": "10",
+   "players": [
+    {
+     "player_id": "1012",
+     "tag": "Lynx",
+     "score": 2,
+     "characters": [
+      "Pokémon Trainer",
+      "Pokémon Trainer"
+     ]
+    },
+    {
+     "player_id": "1011",
+     "tag": "Vortex",
+     "score": 0,
+     "characters": [
+      "Mii Swordfighter",
+      "Mii Swordfighter"
+     ]
+    }
+   ]
+  },
+  {
+   "id": "1009",
+   "round": -1,
+   "round_text": "Losers Round 1",
+   "completed_at": 1785593940,
+   "started_at": 1785593040,
+   "winner_index": 0,
+   "dq": false,
+   "phase_group": "10",
+   "players": [
+    {
+     "player_id": "1004",
+     "tag": "Mistral",
+     "score": 2,
+     "characters": [
+      "Link",
+      "Pokémon Trainer",
+      "Pokémon Trainer"
+     ]
+    },
+    {
+     "player_id": "1002",
+     "tag": "Nova",
+     "score": 1,
+     "characters": [
+      "Marth",
+      "Marth",
+      "Palutena"
+     ]
+    }
+   ]
+  },
+  {
+   "id": "1010",
+   "round": 2,
+   "round_text": "Winners Round 2",
+   "completed_at": 1785594480,
+   "started_at": 1785593580,
+   "winner_index": 1,
+   "dq": false,
+   "phase_group": "10",
+   "players": [
+    {
+     "player_id": "1005",
+     "tag": "Echo",
+     "score": 0,
+     "characters": [
+      "Kirby",
+      "Kirby"
+     ]
+    },
+    {
+     "player_id": "1014",
+     "tag": "Quartz",
+     "score": 2,
+     "characters": [
+      "Snake",
+      "Snake"
+     ]
+    }
+   ]
+  },
+  {
+   "id": "1011",
+   "round": 2,
+   "round_text": "Winners Round 2",
+   "completed_at": 1785595020,
+   "started_at": 1785594120,
+   "winner_index": 1,
+   "dq": false,
+   "phase_group": "10",
+   "players": [
+    {
+     "player_id": "1009",
+     "tag": "Titan",
+     "score": 0,
+     "characters": [
+      "Hero",
+      "Hero"
+     ]
+    },
+    {
+     "player_id": "1007",
+     "tag": "Orion",
+     "score": 2,
+     "characters": [
+      "Joker",
+      "Joker"
+     ]
+    }
+   ]
+  },
+  {
+   "id": "1012",
+   "round": 2,
+   "round_text": "Winners Round 2",
+   "completed_at": 1785595500,
+   "started_at": 1785594600,
+   "winner_index": 0,
+   "dq": false,
+   "phase_group": "10",
+   "players": [
+    {
+     "player_id": "1018",
+     "tag": "Onyx",
+     "score": 2,
+     "characters": [
+      "R.O.B.",
+      "R.O.B."
+     ]
+    },
+    {
+     "player_id": "1019",
+     "tag": "Jinx",
+     "score": 0,
+     "characters": [
+      "Incineroar",
+      "Incineroar"
+     ]
+    }
+   ]
+  },
+  {
+   "id": "1013",
+   "round": 2,
+   "round_text": "Winners Round 2",
+   "completed_at": 1785596760,
+   "started_at": 1785595860,
+   "winner_index": 0,
+   "dq": false,
+   "phase_group": "10",
+   "players": [
+    {
+     "player_id": "1008",
+     "tag": "Sakura",
+     "score": 2,
+     "characters": [
+      "Pokémon Trainer",
+      "Sephiroth"
+     ]
+    },
+    {
+     "player_id": "1013",
+     "tag": "Ember",
+     "score": 0,
+     "characters": [
+      "Min Min",
+      "Min Min"
+     ]
+    }
+   ]
+  },
+  {
+   "id": "1014",
+   "round": -2,
+   "round_text": "Losers Round 2",
+   "completed_at": 1785597720,
+   "started_at": 1785596820,
+   "winner_index": 1,
+   "dq": false,
+   "phase_group": "10",
+   "players": [
+    {
+     "player_id": "1001",
+     "tag": "Kaito",
+     "score": 0,
+     "characters": [
+      "Fox",
+      "Fox"
+     ]
+    },
+    {
+     "player_id": "1019",
+     "tag": "Jinx",
+     "score": 2,
+     "characters": [
+      "Incineroar",
+      "Incineroar"
+     ]
+    }
+   ]
+  },
+  {
+   "id": "1015",
+   "round": -2,
+   "round_text": "Losers Round 2",
+   "completed_at": 1785598740,
+   "started_at": 1785597840,
+   "winner_index": 1,
+   "dq": false,
+   "phase_group": "10",
+   "players": [
+    {
+     "player_id": "1012",
+     "tag": "Lynx",
+     "score": 0,
+     "characters": [
+      "Min Min",
+      "Pokémon Trainer"
+     ]
+    },
+    {
+     "player_id": "1009",
+     "tag": "Titan",
+     "score": 2,
+     "characters": [
+      "Kirby",
+      "Hero"
+     ]
+    }
+   ]
+  },
+  {
+   "id": "1016",
+   "round": -2,
+   "round_text": "Losers Round 2",
+   "completed_at": 1785599700,
+   "started_at": 1785598800,
+   "winner_index": 1,
+   "dq": false,
+   "phase_group": "10",
+   "players": [
+    {
+     "player_id": "1004",
+     "tag": "Mistral",
+     "score": 0,
+     "characters": [
+      "Link",
+      "Link"
+     ]
+    },
+    {
+     "player_id": "1005",
+     "tag": "Echo",
+     "score": 2,
+     "characters": [
+      "Kirby",
+      "Sonic"
+     ]
+    }
+   ]
+  },
+  {
+   "id": "1017",
+   "round": -3,
+   "round_text": "Losers Round 3",
+   "completed_at": 1785600420,
+   "started_at": 1785599520,
+   "winner_index": 0,
+   "dq": false,
+   "phase_group": "10",
+   "players": [
+    {
+     "player_id": "1013",
+     "tag": "Ember",
+     "score": 2,
+     "characters": [
+      "Min Min",
+      "Min Min"
+     ]
+    },
+    {
+     "player_id": "1019",
+     "tag": "Jinx",
+     "score": 0,
+     "characters": [
+      "Incineroar",
+      "Incineroar"
+     ]
+    }
+   ]
+  },
+  {
+   "id": "1018",
+   "round": -3,
+   "round_text": "Losers Round 3",
+   "completed_at": 1785600900,
+   "started_at": 1785600000,
+   "winner_index": 1,
+   "dq": false,
+   "phase_group": "10",
+   "players": [
+    {
+     "player_id": "1009",
+     "tag": "Titan",
+     "score": 0,
+     "characters": [
+      "Kirby",
+      "Hero"
+     ]
+    },
+    {
+     "player_id": "1005",
+     "tag": "Echo",
+     "score": 2,
+     "characters": [
+      "Kirby",
+      "Kirby"
+     ]
+    }
+   ]
+  },
+  {
+   "id": "1019",
+   "round": 3,
+   "round_text": "Winners Semi-Final",
+   "completed_at": 1785601980,
+   "started_at": 1785601080,
+   "winner_index": 0,
+   "dq": false,
+   "phase_group": "10",
+   "players": [
+    {
+     "player_id": "1014",
+     "tag": "Quartz",
+     "score": 2,
+     "characters": [
+      "Kirby",
+      "Kirby",
+      "Snake"
+     ]
+    },
+    {
+     "player_id": "1007",
+     "tag": "Orion",
+     "score": 1,
+     "characters": [
+      "Joker",
+      "Joker",
+      "Joker"
+     ]
+    }
+   ]
+  },
+  {
+   "id": "1020",
+   "round": 3,
+   "round_text": "Winners Semi-Final",
+   "completed_at": 1785602700,
+   "started_at": 1785601800,
+   "winner_index": 0,
+   "dq": false,
+   "phase_group": "10",
+   "players": [
+    {
+     "player_id": "1018",
+     "tag": "Onyx",
+     "score": 2,
+     "characters": [
+      "Ryu",
+      "R.O.B.",
+      "R.O.B."
+     ]
+    },
+    {
+     "player_id": "1008",
+     "tag": "Sakura",
+     "score": 1,
+     "characters": [
+      "Sephiroth",
+      "Sephiroth",
+      "Pokémon Trainer"
+     ]
+    }
+   ]
+  },
+  {
+   "id": "1021",
+   "round": -4,
+   "round_text": "Losers Round 4",
+   "completed_at": 1785603300,
+   "started_at": 1785602400,
+   "winner_index": 1,
+   "dq": false,
+   "phase_group": "10",
+   "players": [
+    {
+     "player_id": "1013",
+     "tag": "Ember",
+     "score": 0,
+     "characters": [
+      "Min Min",
+      "Min Min"
+     ]
+    },
+    {
+     "player_id": "1008",
+     "tag": "Sakura",
+     "score": 2,
+     "characters": [
+      "Sephiroth",
+      "Sephiroth"
+     ]
+    }
+   ]
+  },
+  {
+   "id": "1022",
+   "round": -4,
+   "round_text": "Losers Round 4",
+   "completed_at": 1785604500,
+   "started_at": 1785603600,
+   "winner_index": 0,
+   "dq": false,
+   "phase_group": "10",
+   "players": [
+    {
+     "player_id": "1005",
+     "tag": "Echo",
+     "score": 2,
+     "characters": [
+      "Kirby",
+      "Kirby"
+     ]
+    },
+    {
+     "player_id": "1007",
+     "tag": "Orion",
+     "score": 0,
+     "characters": [
+      "Joker",
+      "Joker"
+     ]
+    }
+   ]
+  },
+  {
+   "id": "1023",
+   "round": -5,
+   "round_text": "Losers Round 5",
+   "completed_at": 1785605340,
+   "started_at": 1785604440,
+   "winner_index": 0,
+   "dq": false,
+   "phase_group": "10",
+   "players": [
+    {
+     "player_id": "1008",
+     "tag": "Sakura",
+     "score": 2,
+     "characters": [
+      "Pokémon Trainer",
+      "Sephiroth"
+     ]
+    },
+    {
+     "player_id": "1005",
+     "tag": "Echo",
+     "score": 0,
+     "characters": [
+      "Kirby",
+      "Kirby"
+     ]
+    }
+   ]
+  },
+  {
+   "id": "1024",
+   "round": 4,
+   "round_text": "Winners Final",
+   "completed_at": 1785606120,
+   "started_at": 1785605220,
+   "winner_index": 0,
+   "dq": false,
+   "phase_group": "10",
+   "players": [
+    {
+     "player_id": "1014",
+     "tag": "Quartz",
+     "score": 2,
+     "characters": [
+      "Kirby",
+      "Kirby"
+     ]
+    },
+    {
+     "player_id": "1018",
+     "tag": "Onyx",
+     "score": 0,
+     "characters": [
+      "R.O.B.",
+      "R.O.B."
+     ]
+    }
+   ]
+  },
+  {
+   "id": "1025",
+   "round": -6,
+   "round_text": "Losers Round 6",
+   "completed_at": 1785606600,
+   "started_at": 1785605700,
+   "winner_index": 0,
+   "dq": false,
+   "phase_group": "10",
+   "players": [
+    {
+     "player_id": "1008",
+     "tag": "Sakura",
+     "score": 2,
+     "characters": [
+      "Sephiroth",
+      "Sephiroth"
+     ]
+    },
+    {
+     "player_id": "1018",
+     "tag": "Onyx",
+     "score": 0,
+     "characters": [
+      "Ryu",
+      "R.O.B."
+     ]
+    }
+   ]
+  },
+  {
+   "id": "1026",
+   "round": 5,
+   "round_text": "Grand Final",
+   "completed_at": 1785607920,
+   "started_at": 1785607020,
+   "winner_index": 0,
+   "dq": false,
+   "phase_group": "10",
+   "players": [
+    {
+     "player_id": "1014",
+     "tag": "Quartz",
+     "score": 2,
+     "characters": [
+      "Kirby",
+      "Snake"
+     ]
+    },
+    {
+     "player_id": "1008",
+     "tag": "Sakura",
+     "score": 0,
+     "characters": [
+      "Pokémon Trainer",
+      "Sephiroth"
+     ]
+    }
+   ]
+  }
+ ]
+}

@@ -1,0 +1,9 @@
+# Données FICTIVES de démonstration (lancées par : python run.py serve --demo)
+https://www.start.gg/tournament/demo-weekly-1/event/ultimate-singles
+https://www.start.gg/tournament/demo-weekly-2/event/ultimate-singles
+https://www.start.gg/tournament/demo-weekly-3/event/ultimate-singles
+https://www.start.gg/tournament/demo-weekly-4/event/ultimate-singles
+https://www.start.gg/tournament/demo-weekly-5/event/ultimate-singles
+https://www.start.gg/tournament/demo-weekly-6/event/ultimate-singles
+https://www.start.gg/tournament/demo-weekly-7/event/ultimate-singles
+https://www.start.gg/tournament/demo-weekly-8/event/ultimate-singles
